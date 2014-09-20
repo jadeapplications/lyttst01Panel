@@ -1,7 +1,9 @@
 lyttst01Panel
 =============
 
-Three Slider subPanel used for displaying Jade Robot Light Sensor Values
+Three Slider subPanel used for displaying Jade Robot Light Sensor Values.
+
+This is a dependency project for other applications.  
 
 
 ### Project Information
